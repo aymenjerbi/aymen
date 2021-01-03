@@ -1,0 +1,6 @@
+**** dht11 Humidite Correct 10 90
+1234 esprit temperature Alarmantes 0 45
+4567 samsung Humidite Alarmantes 10 90
+1471 esprit Humidite Correct 10 90
+6598 iphone Humidite Alarmantes 10 90
+4520 dht30 Humidite Alarmantes 10 90
